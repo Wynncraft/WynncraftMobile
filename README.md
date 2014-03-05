@@ -4,12 +4,12 @@ A community project to create a simple mobile-first web application built on-top
 
 Setting up a Development Environment
 -----------------------------------
-We use tools that interact with http://nodejs.org/ to keep everything in check, to begin development you will need to install node.js and run: `npm install gulp -g` and `npm install bower -g`.
+We use tools that interact with [http://nodejs.org/] to keep everything in check, to begin development you will need to install node.js and run: `npm install gulp -g` and `npm install bower -g`.
 
 
 Updating dependencies
 ---------------------
-The app is built on http://goratchet.com/ and jQuery. These dependencies can be updated by running `gulp update`
+The app is built on [http://goratchet.com/] and [http://jquery.com]. These dependencies can be updated by running `gulp update`
 
 License
 -------
