@@ -1,0 +1,7 @@
+{
+    "name": "WynncraftMobile",
+    "private": false,
+    "devDependencies": {
+        "gulp": "3.5.x"
+    }
+}
