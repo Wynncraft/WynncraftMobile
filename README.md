@@ -1,5 +1,6 @@
 # Wynncraft Mobile Web Application
 [![Dependency Status](https://gemnasium.com/Tama63/WynncraftMobile.png)](https://gemnasium.com/Tama63/WynncraftMobile)
+
 A community project to create a simple mobile-first web application built on-top of HTML5/CSS3 to supplement the main Wynncraft Website.
 
 Setting up a Development Environment
